@@ -1,2 +1,5 @@
 # testrepo
-Course 2: Tools for Data Science Lab
+
+## Editing the file
+
+It's a markdown file in this repository.
